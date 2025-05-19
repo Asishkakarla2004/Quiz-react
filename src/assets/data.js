@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the primary function of a CPU?",
+      option1: "Storing data",
+      option2: "Executing instructions",
+      option3: "Displaying images",
+      option4: "Connecting to a network",
+      ans: 2,
+    },
+    {
+      question: "Which programming language is known for its use in web development?",
+      option1: "JavaScript",
+      option2: "Java",
+      option3: "C++",
+      option4: "Python",
+      ans: 1,
+    },
+    {
+      question: "Which database management system is widely used for relational databases?",
+      option1: "MongoDB",
+      option2: "MySQL",
+      option3: "Cassandra",
+      option4: "Redis",
+      ans: 2,
+    },
+    {
+      question: "Which operating system is most commonly used on personal computers??",
+      option1: "iOS",
+      option2: "Windows",
+      option3: "Android ",
+      option4: "Linux",
+      ans: 2,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
